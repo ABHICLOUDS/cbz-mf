@@ -1,2 +1,2 @@
-# cbz-mf
-this repo is for frontend code
+# cbz-student-ui
+
